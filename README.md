@@ -1,6 +1,6 @@
-<img src="https://i.imgur.com/wRUV5Sp.jpeg" alt="banner" width="100%">
+<img src="" alt="banner" width="100%">
 
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Queen Bot V2 - Chat Messenger Bot</h1>
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Mr perfect - Chat Messenger Bot</h1>
 
 <p align="center">
     <a href="https://nodejs.org/dist/v20.0.0">
